@@ -1,21 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sriyansh Sharma</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<h1 align="center"><span style="color:#5D8BF4;">Sriyansh Sharma</span></h1>
+<h2 align="center">AI/ML Developer | Researcher | Pre-Final Year Student</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriyansh2005&label=Profile%20views&color=0e75b6&style=flat" alt="sriyansh2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriyansh2005" alt="sriyansh2005" /></a> </p>
 
-- 📫 How to reach me **sriyanshsharma.is23@bmsce.ac.in**
+<p align="center">
+  I’m <b>Sriyansh Sharma</b>, a <b>Information Science And Engineering</b> student at <b>BMS College Of Engineering</b>, Bengaluru,
+  passionate about building <b>AI/ML and Gen AI solutions</b> and working with <b>real-world data</b>.
+</p>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sriyansh-sharma-57b499208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sriyansh-sharma-57b499208/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sriyanshsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sriyanshsh/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 💻 Currently Working On
+- **🧠 AI/ML Projects** – Model building, evaluation & improving generalization
+- **📊 Data Analytics Dashboards** – Streamlit dashboards using large datasets
+- **🏆 Competitive Programming** – Solved **400+ problems** on **LeetCode and Geeks For Geeks**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriyansh2005&show_icons=true&locale=en&layout=compact" alt="sriyansh2005" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriyansh2005&show_icons=true&locale=en" alt="sriyansh2005" /></p>
+## 🚀 Featured Projects
+- **PAN Merchant Fraud Detection**
+  - Detecting frauds by Merchants who use PAN Cards for fraud
+  - Libraries: `Scikit-learn`,`Streamlit`,`NetworkX`, `NumPy`, `Pandas`, `HTML`,`CSS`,`JS`
+
+- **📌 UIDAI Aadhaar Enrollment Analytics Dashboard**
+  - Analysis: biometric failure, fraud detection, rural vs urban adoption, hotspot detection
+  - Visualization + Dashboard using **Streamlit**
+
+- **🧪 TestPilot_AI** *(renamed from dad-cli)*
+  - AI-powered automation / workflow tool
+  - Focused on clean productivity and developer speed
+
+- **🎮 Mini Projects**
+  - Anime Recommendation System (Python)
+  - Legal Chatbot(Python)
+  - Psychiatrist Chatbot (Python)
+
+---
+
+
+## 🛠 Skills
+
+### 🧠 AI/ML + Data
+- `NumPy` • `Pandas` • `Pytorch` • `Matplotlib`
+- `Scikit-learn` • `Imbalanced-learn`
+- `Streamlit` • `Langchain` • `FastAPI`
+
+---
+
+
+### 💻 Programming Languages
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=py,c,java&perline=10" 
+      style="width: 180px; height: auto;"
+    />
+  </a>
+</div>
+
+### ⚙️ Tools & Platforms
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=vscode,bash,git,github,docker,mysql,mongodb,windows&perline=10" 
+      style="width: 520px; height: auto;"
+    />
+  </a>
+</div>
+
+---
+
+### 🤝 Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=60)](https://www.linkedin.com/in/sriyansh-sharma-57b499208/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" />](https://leetcode.com/u/sriyanshsh/)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1X0wKIxKN9jigQrtmYmmnkgghGayRNbGchHq9yTY69h8/edit?usp=sharing)
