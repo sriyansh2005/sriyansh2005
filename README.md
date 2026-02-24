@@ -73,4 +73,4 @@
 ### 🤝 Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=60)](https://www.linkedin.com/in/sriyansh-sharma-57b499208/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" />](https://leetcode.com/u/sriyanshsh/)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1X0wKIxKN9jigQrtmYmmnkgghGayRNbGchHq9yTY69h8/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs)](https://drive.google.com/file/d/1a4Du5uU-NTz02-xiDyi9anlqtXJLaYDN/view?usp=sharing)
